@@ -1,44 +1,71 @@
 ---
-title: Creative Cloud - Fonts APIs
-description: Adobe Fonts APIs
+title: Creative Cloud - Animate
+description: This is the home page of Animate APIs
 ---
 
-<Hero slots="image, heading, text, buttons" variant="halfwidth" />
+<Hero slots="image, heading, text" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-# Integrate Unlimited Fonts
+# Vector animation with enhancements from you.
 
-Build the Adobe Fonts Library into your application experience with our platform. <br /><br /> Please note we are not currently accepting new integrations while we plan updates to our documentation. Existing third-party integrations can reference existing [documentation](https://www.adobe.io/apis/creativecloud/adobe-fonts/docs.html) or [email us](mailto:fontintegrations@adobe.com) with questions.
+Adobe Animate CC offers a JavaScript API (JSAPI) to script actions in the Animate UI, and the Custom Platform Support Development Kit (CPSDK) to extend the power of Animate to new platforms. With these tools, you can build extensions that make Animate do what you want: provide custom tools to supercharge the creative process, automate workflows, and more. <br /> <br /> Working in JavaScript and C++ using Adobe’s Eclipse Toolkit and your favorite C++ IDE, you can build scripts and plug-ins and package them for distribution as extensions. Your extensions can be given away or sold in the [Adobe Exchange](https://exchange.adobe.com/addons) marketplace where users can browse and install extensions. Discover the potential for enhancing and extending the capabilities of Adobe Animate.
 
-- [Read the Docs](../apis/creativecloud/adobe-fonts/docs.html)
-- [Email Us](mailto:fontintegrations@adobe.com)
+<TextBlock slots="heading, text, buttons" width="33%" theme="light" isCentered />
 
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+### Add support for custom platforms
 
-![Fonts old graphic 1](images/fonts01.png)
+Learn how to incorporate 3D LUTs to create unique profiles for use in Photoshop, Camera Raw, and Lightroom.
 
-### Browse Fonts
+- [Get the SDK](https://console.adobe.io/downloads/an)
 
-Yup, there’s a lot of ’em. Maybe you’d like to give your customers the option to browse our library, or even a custom selection of fonts. Build the font menu of your dreams with our APIs.
+<TextBlock slots="heading, text, buttons" width="33%" theme="light" isCentered />
 
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+### Automate animation processes and workflows
 
-![Fonts old graphic 2](images/fonts02.png)
+The JavaScript API exposes Animate to your control. Build tools that corral animation assets, control output settings, and automate export to multiple formats.
 
-### Publish Kits
+- [Extending Animate (PDF)](http://help.adobe.com/en_US/flash/cs/extend/flash_extending_reference.pdf)
 
-Publish great type on the web, by building a kit of specified fonts that will load on specific domains using a simple HTML embed code. With our APIs, you can choose fonts and create kits from within your own application.
+<TextBlock slots="heading, text, buttons" width="33%" theme="light" isCentered />
 
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+### Create powerful animation tools
 
-![Fonts old graphic 3](images/fonts03.png)
+Your Animate plug-ins can provide users with custom animation tools, animation data management, implementing complex motion controls, organizing animation assets, and more.
 
-### Resolve Missing Fonts
+- [Extending Animate (PDF)](http://help.adobe.com/en_US/flash/cs/extend/flash_extending_reference.pdf)
 
-You’ve got a file open, but not all the embedded fonts are there. Now what? Use our API to find missing fonts. We’ll match what we can with fonts from the Adobe Fonts library.
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
+### Extend Adobe Animate using JavaScript and C++
+
+Write scripts in JavaScript to automate Animate functions or add capabilities. Create C++ libraries that you can call from your JavaScript scripts.
+
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+
+### Build plug-ins with powerful tools
+
+Use the Eclipse IDE and your favorite C++ dev environment to create code libraries for your scripts to access.
+
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+
+### Work with multiple output formats
+
+Build automations that export Animate projects to HTML5 Canvas, WebGL, SVG, Flash, and more.
+
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+
+### Support custom platforms
+
+The Custom Platform Development Kit and sample app show you how to build plug-ins to define your own document types and enable support for them within Animate.
+
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+
+### Distribute over the web
+
+Package your plug-in as a .zxp file and upload it to the [Adobe Exchange](https://exchange.adobe.com/addons) marketplace to monetize your work; or distribute it independently as you wish.
+
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
 ![CC banner](images/cc-banner.png)
 
