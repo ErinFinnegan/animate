@@ -24,7 +24,7 @@ module.exports = {
     globalNav,
     pages: [
       {
-        title: "Adobe Animtat",
+        title: "Animate",
         path: "/",
       },
     ],
