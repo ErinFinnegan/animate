@@ -1,4 +1,4 @@
-# Fonts developer documentation
+# Animate developer marketing page
 
 This is a Gatsby site template built with [Gatsby Theme Parliament](https://github.com/adobe/gatsby-theme-parliament).
 

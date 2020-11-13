@@ -24,11 +24,11 @@ module.exports = {
     globalNav,
     pages: [
       {
-        title: "Adobe Fonts",
+        title: "Adobe Animtat",
         path: "/",
       },
     ],
   },
   plugins: [`@adobe/gatsby-theme-parliament`],
-  pathPrefix: process.env.PATH_PREFIX || "/fonts",
+  pathPrefix: process.env.PATH_PREFIX || "/animate",
 };
