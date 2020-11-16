@@ -6,3 +6,5 @@ node_modules
 yarn-error.log
 .editorconfig
 .env
+
+src/pages/images/.DS_Store
