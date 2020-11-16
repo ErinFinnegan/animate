@@ -13,7 +13,7 @@ Adobe Animate CC offers a JavaScript API (JSAPI) to script actions in the Animat
 
 <TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
 
-![Animate Feature 1](images/SmartObject_99_N.svg)
+![Animate Feature 1](images/Smock_AssetCheck_18_N.svg)
 
 ### Add support for custom platforms
 
@@ -23,7 +23,7 @@ Learn how to incorporate 3D LUTs to create unique profiles for use in Photoshop,
 
 <TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
 
-![Animate Feature 2](images/PsActions_99_N.svg)
+![Animate Feature 2](images/Smock_AssetsLinkedPublished_18_N.svg)
 
 ### Automate animation processes and workflows
 
@@ -33,7 +33,7 @@ The JavaScript API exposes Animate to your control. Build tools that corral anim
 
 <TextBlock slots="image, heading, text, buttons" width="33%" theme="light" isCentered />
 
-![Animate Feature 3](images/Presets_99_N.svg)
+![Animate Feature 3](images/Smock_MagicWand_18_N.svg)
 
 ### Create powerful animation tools
 
