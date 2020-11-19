@@ -15,46 +15,50 @@ Unlock the power of the Audition. Support custom file formats, convert to and fr
 
 
 
-<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+
+![CC icon](images/Smock_AssetCheck_18_N.svg)
 
 ### Automate complex workflows
 
 Build panels that streamline how media is managed. Simplify the search and ingest of source media, and automate tedious and error-prone steps for final delivery.
 
-<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
+![CC icon](images/Smock_AssetsLinkedPublished_18_N.svg)
 
 ### Integrate control surface hardware 
 
 Use the two-way communication capabilities of the control surface API to sync Audition with hardware faders, VU meters, color grading controls, and more.
 
-<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
+![CC icon](images/Smock_Code_18_N.svg)
 
 ### Add support for new file formats 
 
 Build plug-ins to support the import and export of custom file formats, and convert to and from native Audition multitrack sessions.
 
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/bridge-teaser1.jpg)
+![CC icon](images/Smock_GearsEdit_18_N.svg)
 
 ### Integrate external control hardware 
 
 Use the two-way communication capabilities of the control surface plug-in API to sync Premiere Pro with hardware faders, VU meters, color grading controls, and more.
 
 
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/bridge-teaser2.jpg)
+![CC icon](images/Smock_FileJson_18_N.svg)
 
 ### Add support for new file formats 
 
 Support the import and export of custom file formats, or extended metadata.
 
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/bridge-teaser3.jpg)
+![CC icon](images/Smock_ShowAllLayers_18_N.svg)
 
 ### Multitrack session import/export 
 
@@ -62,15 +66,16 @@ Create or convert to and from native Audition multitrack sessions.
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser4.jpg)
+![CC icon](images/Smock_AssetCheck_18_N.svg)
 
 ### Integrate web services 
 
 Host your web service interface in a dedicated panel, with full drag-and-drop, metadata transfer, and file analysis support using standard web frameworks or Node.js.
 
+
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser5.jpg)
+![CC icon](images/Smock_ShowAllLayers_18_N.svg)
 
 #### Manipulate metadata 
 
@@ -78,7 +83,7 @@ Get and set all metadata associated with project items, including all supported 
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser1.jpg)
+![CC icon](images/Smock_GearsEdit_18_N.svg)
 
 #### Preview and control 
 
@@ -86,7 +91,7 @@ Preview supported footage and programmatically control playback or other events,
 
 
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, links" width="33%" theme="dark" isCentered />
 
 ![generic logo](images/audition_showcase1.png)
 
@@ -97,7 +102,7 @@ Easily and quickly locate and backup your Adobe Audition session files.
 * [Learn more](https://creative.adobe.com/addons/products/2953#.WTc_98m1tTY)
 
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, links" width="33%" theme="dark" isCentered />
 
 ![generic logo](images/audition_showcase2.png)
 
@@ -109,7 +114,7 @@ Identify and manage unused files from your Audition sessions (ses, xml, and sesx
 
 
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, links" width="33%" theme="dark" isCentered />
 
 ![generic logo](images/audition_showcase3.png)
 

@@ -42,7 +42,7 @@ The Illustrator API opens the entire application to your control. Your extension
 
 <ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
-![CC icon](images/bridge-teaser1.jpg)
+![CC icon](images/Smock_GearsEdit_18_N.svg)
 
 ### Edit art directly
 
@@ -51,7 +51,7 @@ Parse and manipulate image data to apply custom effects. Select, manipulate, edi
 
 <ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
-![CC icon](images/bridge-teaser2.jpg)
+![CC icon](images/Smock_FileJson_18_N.svg)
 
 ### Enhance the UI
 
@@ -59,7 +59,7 @@ Add your own custom tools to the toolbar and functions to the menus. Create HTML
 
 <ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
-![CC icon](images/bridge-teaser3.jpg)
+![CC icon](images/Smock_Code_18_N.svg)
 
 ### Embed native controls
 
@@ -67,7 +67,7 @@ Leverage native components of MacOS or Windows in your plug-ins and panels.
 
 <ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
-![CC icon](images/bridge-teaser4.jpg)
+![CC icon](images/Smock_AssetCheck_18_N.svg)
 
 ### Roll your own file formats
 
@@ -75,7 +75,7 @@ Add support for specialized file formats to import and export. Parse and process
 
 <ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
-![CC icon](images/bridge-teaser5.jpg)
+![CC icon](images/Smock_ShowAllLayers_18_N.svg)
 
 #### Use callback functions, timers, and events
 

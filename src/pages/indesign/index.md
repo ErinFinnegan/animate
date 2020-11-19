@@ -36,7 +36,7 @@ InDesign Server’s multithreaded SOAP engine lets you build complete document m
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser1.jpg)
+![CC icon](images/Smock_GearsEdit_18_N.svg)
 
 ### Integrate with other apps
 
@@ -45,7 +45,7 @@ InDesign supports the Adobe Common Extensibility Platform(CEP), which lets you b
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser2.jpg)
+![CC icon](images/Smock_FileJson_18_N.svg)
 
 ### Import, export, and process documents in XML-compatible format 
 
@@ -53,7 +53,7 @@ Use InDesign’s IDML, an XML-based format, to manipulate documents and their co
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser3.jpg)
+![CC icon](images/Smock_Code_18_N.svg)
 
 ### Automate and add features with scripting
 

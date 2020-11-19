@@ -36,7 +36,7 @@ Use the transmit API to send video and audio from the Program Monitor anywhere. 
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser1.jpg)
+![CC icon](images/Smock_GearsEdit_18_N.svg)
 
 ### Build effects and transitions
 
@@ -45,7 +45,7 @@ Extend the capabilities of After Effects plug-ins running in Premiere Pro, enabl
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser2.jpg)
+![CC icon](images/Smock_FileJson_18_N.svg)
 
 ### Transmit the Premiere Pro Monitor <br /> to any destination 
 
@@ -53,7 +53,7 @@ Mercury Transmit plug-ins can send video, audio, and closed captioning to any ex
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser3.jpg)
+![CC icon](images/Smock_Code_18_N.svg)
 
 ### Manage your metadata 
 
@@ -61,7 +61,7 @@ Get and set all metadata associated with project items, including all supported 
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser4.jpg)
+![CC icon](images/Smock_AssetCheck_18_N.svg)
 
 ### Preview external content 
 
@@ -69,7 +69,7 @@ Set up the Premiere Pro Source Monitor to preview footage in any supported forma
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser5.jpg)
+![CC icon](images/Smock_ShowAllLayers_18_N.svg)
 
 #### Build across apps with <br /> standard web tools 
 
@@ -108,7 +108,7 @@ An easy way to find, test, and buy footage, music, and sound effects for your pr
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![generic logo](images/aftereffects-extension.jpg)
+![generic logo](images/Smock_ImageCheckedOut_18_N.svg)
 
 ### FilmImpact 
 

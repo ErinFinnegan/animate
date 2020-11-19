@@ -7,7 +7,7 @@ description: This is the home page of After Effects APIs
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-#  Visual effects and creative workflows from your imagination. – Extend, enhance, empower
+#  Visual effects and creative workflows from your imagination.
 
 Opportunities abound for building for After Effects. Extend the capabilities of After Effects using plug-ins, scripts, and panels that integrate seamlessly into existing workflows. Create stunning visual effects, manipulate project elements, and automate complex tasks using After Effects APIs.
 
@@ -15,48 +15,59 @@ Opportunities abound for building for After Effects. Extend the capabilities of 
 
 
 
-<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+
+![alt text](images/Smock_AssetCheck_18_N.svg)
 
 ### Build stunning visual effects
 
 Go beyond built-in effects and templates. Create an effect that hasn’t been thought of before. Build on top of a mature API. Effects can even be made compatible with Premiere Pro.
 
-<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
+![alt text](images/Smock_AssetsLinkedPublished_18_N.svg)
 
 ### Integrate other tools in your workflow
 
 Artists love After Effects not only for what can be done in the application, but for how it connects to other tools in their workflow. Are you thinking of a new way for After Effects to work with other tools? Panels, scripts, and the command-line interface can help you make that connection.
 
-<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
+![alt text](images/Smock_Code_18_N.svg)
 
 ### Automate complex tasks
 
 Automate tedious and error-prone steps with APIs to read and write After Effects projects. Scripts and AEGP plug-ins abstract away the file format, providing deep access to project elements.
 
 
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
+<TextBlock slots="image, heading, text"  width="25%" theme="dark" isCentered />
 
-![CC icon](images/cc-icon.png)
+![alt text](images/Smock_FileJson_18_N.svg)
 
 #### Automate complex workflows
 
 Automate After Effects using scripts that run from a menu item or the command line. Add new panels that dock and resize within the After Effects UI. Streamline how media is managed. Simplify the search and ingest of source media, and automate tedious and error-prone steps for final delivery.
 
+<TextBlock slots="image, heading, text"  width="25%" theme="dark" isCentered />
 
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
+![alt text](images/Smock_FileHTML_18_N.svg)
 
-![CC icon](images/bridge-teaser1.jpg)
+### Build stunning visual effects
+
+Start with a wide variety of built-in parameter controls and data types, or build your own. Support image buffers with color depths from 8-bit to 32-bit floating point. Set parameter dependencies, and even change project elements based on parameter settings. Effects built using the plug-in SDK can be made compatible with Premiere Pro.
+
+<TextBlock slots="image, heading, text"  width="25%" theme="dark" isCentered />
+
+![alt text](images/Smock_Hammer_18_N.svg)
 
 ### Manipulate projects
 
 AEGP plug-ins, panels, and scripts can read and modify nearly every element of After Effects projects and preferences. Manipulate text and shape layers.
 
 
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
+<TextBlock slots="image, heading, text" width="25%" theme="dark" isCentered />
 
-![CC icon](images/bridge-teaser2.jpg)
+![alt text](images/Smock_ImageCheckedOut_18_N.svg)
 
 ### Add and hook into menu items
 
@@ -65,7 +76,7 @@ Add menu items, hook and trigger After Effects’ internal commands.
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![generic logo](images/aftereffects-extension.jpg)
+![generic logo](images/Smock_FileShare_18_N.svg)
 
 ### Red Giant Trapcode Suite
 
@@ -78,7 +89,7 @@ A set of 11 tools for 3D motion graphics and visual effects.
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![generic logo](images/aftereffects-extension.jpg)
+![generic logo](images/Smock_FileWorkflow_18_N.svg)
 
 ### Video Copilot Element 3D
 
@@ -91,7 +102,7 @@ Export animations for web as .json files. Render animations in the browser in sv
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![generic logo](images/aftereffects-extension.jpg)
+![generic logo](images/Smock_GearsEdit_18_N.svg)
 
 ### Bodymovin
 

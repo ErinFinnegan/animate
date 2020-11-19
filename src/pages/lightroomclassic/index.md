@@ -36,7 +36,7 @@ Connect Lightroom with 3rd party websites for easy and quick sharing.
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser1.jpg)
+![CC icon](images/Smock_GearsEdit_18_N.svg)
 
 ### Leverage the power of Lua
 
@@ -45,7 +45,7 @@ Write extensions built in C++ or JavaScript that use the API to add your own fun
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser2.jpg)
+![CC icon](images/Smock_FileJson_18_N.svg)
 
 ### Customize export and publish
 
@@ -53,7 +53,7 @@ Dreamweaver now supports CEP, which lets you build plug-ins and panels for Dream
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/bridge-teaser3.jpg)
+![CC icon](images/Smock_Code_18_N.svg)
 
 ### Work with metadata
 
@@ -63,7 +63,7 @@ The Dreamweaver API lets you access server-side data, load server-side scripts, 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
 
-![Resource 1](images/bridge-teaser4.jpg)
+![Resource 1](images/Smock_AssetCheck_18_N.svg)
 
 ### AEnhance the Lightroom UI
 
@@ -73,7 +73,7 @@ Your extensions can modify the Dreamweaver UI in almost any way you want. Add ne
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
 
-![Resource 1](images/bridge-teaser5.jpg)
+![Resource 1](images/Smock_ShowAllLayers_18_N.svg)
 
 ### Build web engine plug-ins
 
@@ -82,7 +82,7 @@ Package your extensions and upload them to the Adobe Exchange marketplace to mon
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![Resource 1](images/bridge-teaser5.jpg)
+![Resource 1](images/Smock_ShowAllLayers_18_N.svg)
 
 ### Build web engine plug-ins
 

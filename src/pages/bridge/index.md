@@ -34,7 +34,7 @@ Using ExtendScript, Adobe’s enhanced JavaScript that provides access to Creati
 
 <ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
-![CC icon](images/bridge-teaser1.jpg)
+![CC icon](images/Smock_GearsEdit_18_N.svg)
 
 ### Build plug-ins with familiar tools
 
@@ -43,7 +43,7 @@ Adobe Bridge plug-ins are built in ExtendScript, Adobe’s implementation of Jav
 
 <ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
-![CC icon](images/bridge-teaser2.jpg)
+![CC icon](images/Smock_FileJson_18_N.svg)
 
 ### Create your own custom workspaces
 
@@ -51,7 +51,7 @@ The Bridge API gives you full control of the application’s interface, enabling
 
 <ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
-![CC icon](images/bridge-teaser3.jpg)
+![CC icon](images/Smock_Code_18_N.svg)
 
 ### Start from a solid foundation
 
@@ -59,7 +59,7 @@ The Bridge SDK comes with an extensive library of samples that demonstrate how t
 
 <ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
-![CC icon](images/bridge-teaser4.jpg)
+![CC icon](images/Smock_AssetCheck_18_N.svg)
 
 ### Create your own UI
 
@@ -67,7 +67,7 @@ ExtendScript with the Bridge API lets you define custom windows, palettes, dialo
 
 <ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
-![CC icon](images/bridge-teaser5.jpg)
+![CC icon](images/Smock_ShowAllLayers_18_N.svg)
 
 #### Extend across apps
 
